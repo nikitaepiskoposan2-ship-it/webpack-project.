@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.querySelector("#app");if(e){const t=document.createElement("h1");t.textContent="Webpack-проект работает";const c=document.createElement("p");c.textContent="Проект собран с помощью Webpack.",e.append(t,c)}console.log("Проект собран через Webpack")})();
